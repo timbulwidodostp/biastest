@@ -1,6 +1,8 @@
 # biastest
 Testing parameter equality across different models Use biastest With STATA 19
 
+https://www.youtube.com/watch?v=sFVeSOa4r7M
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
